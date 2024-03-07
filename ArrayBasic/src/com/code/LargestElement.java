@@ -1,6 +1,7 @@
 package com.code;
 
 public class LargestElement {
+	//brute ----> better ----->optimal
 
 	public static void bruteSoltion(int[] arr) {
 
