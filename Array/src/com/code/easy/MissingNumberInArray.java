@@ -1,4 +1,4 @@
-package com.code;
+package com.code.easy;
 
 public class MissingNumberInArray {
 	// Brute--->Better---->Optimal

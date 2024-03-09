@@ -1,4 +1,4 @@
-package com.code;
+package com.code.basic;
 
 public class SecondLargestElement {
 
