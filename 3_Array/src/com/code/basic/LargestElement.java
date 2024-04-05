@@ -1,9 +1,9 @@
 package com.code.basic;
 
 public class LargestElement {
-	//brute ----> better ----->optimal
+	// brute ----> better ----->optimal
 
-	public static void bruteSoltion(int[] arr) {
+	public static void bruteSoltion(int[] arr) { // tc=>O(nlogn) //sc=>o(1)
 
 		// insertion_sort
 		for (int i = 0; i < arr.length; i++) {
